@@ -7,6 +7,7 @@ apk add --no-cache \
     jq \
     vim \
     git \
+    github-cli \
     iptables \
     ip6tables \
     docker \
