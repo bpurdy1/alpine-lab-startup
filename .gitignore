@@ -1,0 +1,26 @@
+# Operating System & Editor Metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Temporary Output
+*.log
+tmp/
+temp/
+
+# Environment and Secret Files
+.env
+*.env
+secrets/
+id_ed25519
+id_ed25519.pub
+*.pem
+*.key
+
+# Compiled or Local Binary Tools (if building any scripts)
+bin/
+build/
+
